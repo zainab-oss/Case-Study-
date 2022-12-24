@@ -1,0 +1,72 @@
+body{
+    align-items: center;
+}
+
+.heading {
+    background-color: aliceblue;
+}
+
+h1 
+{
+    color: blue;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+p{
+    font-weight: bold;
+    color: purple;
+}
+
+#sec1 {
+    background-color: lightcoral;
+}
+#sec2 {
+    background-color: lightsalmon;
+}
+#sec3 {
+    background-color: lightyellow;
+}
+#sec4 {
+    background-color: lightgreen;
+}
+#sec5 {
+    background-color: lightblue;
+}
+#sec6 {
+    background-color: lightpink;
+}
+#sec7 {
+    background-color: lavender;
+}
+
+img {
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+b {
+    color: blue;
+}
+
+h5 {
+    background-color: aliceblue;
+    border-radius: 20px;
+    color: purple;
+    font-weight: 800;
+}
+
+h4 {
+    font-weight: bold;
+    color: purple;
+}
+hr.section 
+{
+    border-top: 5px solid purple;
+}
+
+.end {
+    background-color: aliceblue;
+    border-radius: 25px;
+}
