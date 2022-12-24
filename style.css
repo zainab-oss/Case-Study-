@@ -52,6 +52,8 @@ b {
 
 h5 {
     background-color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 20px;
     color: purple;
     font-weight: 800;
